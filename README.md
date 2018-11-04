@@ -145,8 +145,8 @@ code for mobile number (like 91 for India) will be automatically selected after 
 
 - All the APIs and Events are well documented using npm module apiDoc 
 
-* [APIDOC](http://todoapp.apidoc.shahrukhsayyed.tech) - APIDOC of ToDo App backend.
-* [EventDoc](http://todoapp.eventdoc.shahrukhsayyed.tech) - EventDoc of ToDo App backend.
+* [APIDOC](https://s3.ap-south-1.amazonaws.com/shahrukhsayyed.test-bucket/ToDo/apidoc/index.html) - APIDOC of ToDo App backend.
+* [EventDoc](https://s3.ap-south-1.amazonaws.com/shahrukhsayyed.test-bucket/ToDo/eventdoc/Events.html) - EventDoc of ToDo App backend.
 
 ## Built With
 
